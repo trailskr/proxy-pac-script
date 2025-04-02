@@ -18,6 +18,7 @@ groq.com
 eslint.org
 typescript-eslint.io
 reka-ui.com
+nuxt.com
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
