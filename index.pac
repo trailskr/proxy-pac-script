@@ -17,6 +17,7 @@ recraft.ai
 groq.com
 eslint.org
 typescript-eslint.io
+reka-ui.com
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
