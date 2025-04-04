@@ -19,6 +19,7 @@ eslint.org
 typescript-eslint.io
 reka-ui.com
 nuxt.com
+ai.google.dev
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
