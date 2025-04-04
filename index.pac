@@ -21,6 +21,7 @@ reka-ui.com
 nuxt.com
 ai.google.dev
 aistudio.google.com
+reddit.com
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
