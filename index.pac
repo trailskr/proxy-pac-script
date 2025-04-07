@@ -22,6 +22,7 @@ nuxt.com
 ai.google.dev
 aistudio.google.com
 reddit.com
+alkalimakersuite-pa.clients6.google.com
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
