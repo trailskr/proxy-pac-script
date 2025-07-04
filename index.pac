@@ -1,6 +1,7 @@
 const domainsStr = `
 googlevideo.com
 youtube.com
+i.ytimg.com
 rutracker.org
 rutracker.cc
 medium.com
