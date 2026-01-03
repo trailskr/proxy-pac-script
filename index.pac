@@ -24,6 +24,7 @@ nuxt.com
 ai.google.dev
 aistudio.google.com
 reddit.com
+machengine.org
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
