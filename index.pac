@@ -25,6 +25,7 @@ ai.google.dev
 aistudio.google.com
 reddit.com
 machengine.org
+youtu.be
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
