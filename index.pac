@@ -27,6 +27,7 @@ reddit.com
 machengine.org
 youtu.be
 linkedin.com
+instagram.com
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
