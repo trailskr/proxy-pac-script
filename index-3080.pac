@@ -28,6 +28,7 @@ machengine.org
 youtu.be
 linkedin.com
 instagram.com
+dbdiagram.io
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
