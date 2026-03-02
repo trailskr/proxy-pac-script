@@ -1,5 +1,9 @@
 const domainsStr = `
 googlevideo.com
+google.com
+google.dev
+ai.google.dev
+aistudio.google.com
 youtube.com
 ytimg.com
 ggpht.com
@@ -21,8 +25,6 @@ eslint.org
 typescript-eslint.io
 reka-ui.com
 nuxt.com
-ai.google.dev
-aistudio.google.com
 reddit.com
 machengine.org
 youtu.be
