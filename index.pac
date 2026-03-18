@@ -31,6 +31,7 @@ youtu.be
 linkedin.com
 instagram.com
 dbdiagram.io
+eslint.org
 `
 
 const domains = domainsStr.split('\n').filter(Boolean)
